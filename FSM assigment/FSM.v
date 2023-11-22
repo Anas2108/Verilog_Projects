@@ -71,6 +71,7 @@ module FSM (X,clk,reset,Y,current_state);
   
 endmodule 
 
+/**********************************Test bench*********************************************/
 
 module FSM_DUT();
   
